@@ -2,8 +2,8 @@
 
 ## Video demo and Devpost page
 
-[Demo](https://www.youtube.com/watch?v=6jcb2hMmoGg)
-[Devpost](https://devpost.com/software/fishman-adventures)
+- [Demo](https://www.youtube.com/watch?v=6jcb2hMmoGg)
+- [Devpost](https://devpost.com/software/fishman-adventures)
 
 ## Overview
 
