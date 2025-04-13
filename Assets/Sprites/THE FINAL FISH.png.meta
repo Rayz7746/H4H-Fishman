@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: 10aafc049753d4736b477e0ed00cf1ce
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 807462566704421448
+    second: THE FINAL FISH_0
+  - first:
+      213: 637763520515945660
+    second: THE FINAL FISH_1
+  - first:
+      213: 8626132210480647468
+    second: THE FINAL FISH_2
+  - first:
+      213: 2767583071871567155
+    second: THE FINAL FISH_3
+  - first:
+      213: -8098484279139172500
+    second: THE FINAL FISH_4
+  - first:
+      213: 1771758485753646171
+    second: THE FINAL FISH_5
+  - first:
+      213: -7830004046979046565
+    second: THE FINAL FISH_6
+  - first:
+      213: 4411277383370347230
+    second: THE FINAL FISH_7
+  - first:
+      213: 3031820901951050447
+    second: THE FINAL FISH_8
+  - first:
+      213: 8264346410519486287
+    second: THE FINAL FISH_9
+  - first:
+      213: 4144405803490582678
+    second: THE FINAL FISH_10
+  - first:
+      213: -6624145636735002406
+    second: THE FINAL FISH_11
+  - first:
+      213: 5441903446181359094
+    second: THE FINAL FISH_12
+  - first:
+      213: -8414794743963486919
+    second: THE FINAL FISH_13
+  - first:
+      213: 4443080170237134137
+    second: THE FINAL FISH_14
+  - first:
+      213: 8009308703643805306
+    second: THE FINAL FISH_15
+  - first:
+      213: -3177321862414615886
+    second: THE FINAL FISH_16
+  - first:
+      213: -8690054409241828535
+    second: THE FINAL FISH_17
+  - first:
+      213: -7639882360105814389
+    second: THE FINAL FISH_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: THE FINAL FISH_0
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 7919
+        width: 1862
+        height: 1697
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a97d12deea43b00800000000000000
+      internalID: 807462566704421448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE FINAL FISH_1
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 7919
+        width: 1862
+        height: 1697
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb43e0bfa8ac9d800800000000000000
+      internalID: 637763520515945660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE FINAL FISH_2
+      rect:
+        serializedVersion: 2
+        x: 4019
+        y: 7919
+        width: 1862
+        height: 1697
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d014fca8d26b770800000000000000
+      internalID: 8626132210480647468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE FINAL FISH_3
+      rect:
+        serializedVersion: 2
+        x: 5999
+        y: 7919
+        width: 1862
+        height: 1697
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3350a4df32e686620800000000000000
+      internalID: 2767583071871567155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE FINAL FISH_4
+      rect:
+        serializedVersion: 2
+        x: 7979
+        y: 7919
+        width: 1862
+        height: 1697
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ff2daa4776c9f80800000000000000
+      internalID: -8098484279139172500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE FINAL FISH_5
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 5939
+        width: 1862
+        height: 1697
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c4123a4fc869810800000000000000
+      internalID: 1771758485753646171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE FINAL FISH_6
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 5939
+        width: 1862
+        height: 1697
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5361fdedcc365390800000000000000
+      internalID: -7830004046979046565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE FINAL FISH_7
+      rect:
+        serializedVersion: 2
+        x: 4019
+        y: 5939
+        width: 1862
+        height: 1697
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed211818861083d30800000000000000
+      internalID: 4411277383370347230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE FINAL FISH_8
+      rect:
+        serializedVersion: 2
+        x: 5999
+        y: 5939
+        width: 1862
+        height: 1697
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2956b0c01331a20800000000000000
+      internalID: 3031820901951050447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE FINAL FISH_9
+      rect:
+        serializedVersion: 2
+        x: 7979
+        y: 5939
+        width: 1862
+        height: 1697
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4fd9c3264bd0b270800000000000000
+      internalID: 8264346410519486287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE FINAL FISH_10
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 3959
+        width: 1862
+        height: 1697
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690af1ace13e38930800000000000000
+      internalID: 4144405803490582678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE FINAL FISH_11
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 3959
+        width: 1862
+        height: 1697
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8d4fdb3ae4214a0800000000000000
+      internalID: -6624145636735002406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE FINAL FISH_12
+      rect:
+        serializedVersion: 2
+        x: 4019
+        y: 3959
+        width: 1862
+        height: 1697
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd2d931a56858b40800000000000000
+      internalID: 5441903446181359094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE FINAL FISH_13
+      rect:
+        serializedVersion: 2
+        x: 5999
+        y: 3959
+        width: 1862
+        height: 1697
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9357b3c83c4a83b80800000000000000
+      internalID: -8414794743963486919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE FINAL FISH_14
+      rect:
+        serializedVersion: 2
+        x: 7979
+        y: 3959
+        width: 1862
+        height: 1697
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9350197dfddf8ad30800000000000000
+      internalID: 4443080170237134137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE FINAL FISH_15
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1979
+        width: 1862
+        height: 1697
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a762221b4d7c62f60800000000000000
+      internalID: 8009308703643805306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE FINAL FISH_16
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 1979
+        width: 1862
+        height: 1697
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bab1bda992e7e3d0800000000000000
+      internalID: -3177321862414615886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE FINAL FISH_17
+      rect:
+        serializedVersion: 2
+        x: 3959
+        y: 1979
+        width: 5941
+        height: 1967
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943e2528e89b66780800000000000000
+      internalID: -8690054409241828535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE FINAL FISH_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 5941
+        height: 1966
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86be18a87fa9f590800000000000000
+      internalID: -7639882360105814389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      THE FINAL FISH_0: 807462566704421448
+      THE FINAL FISH_1: 637763520515945660
+      THE FINAL FISH_10: 4144405803490582678
+      THE FINAL FISH_11: -6624145636735002406
+      THE FINAL FISH_12: 5441903446181359094
+      THE FINAL FISH_13: -8414794743963486919
+      THE FINAL FISH_14: 4443080170237134137
+      THE FINAL FISH_15: 8009308703643805306
+      THE FINAL FISH_16: -3177321862414615886
+      THE FINAL FISH_17: -8690054409241828535
+      THE FINAL FISH_18: -7639882360105814389
+      THE FINAL FISH_2: 8626132210480647468
+      THE FINAL FISH_3: 2767583071871567155
+      THE FINAL FISH_4: -8098484279139172500
+      THE FINAL FISH_5: 1771758485753646171
+      THE FINAL FISH_6: -7830004046979046565
+      THE FINAL FISH_7: 4411277383370347230
+      THE FINAL FISH_8: 3031820901951050447
+      THE FINAL FISH_9: 8264346410519486287
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

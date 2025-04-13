@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: c5ee0d27113b84eadb4c8facecb86f8d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3107468213704096533
+    second: Kelp (fish)_0
+  - first:
+      213: -213664514286916578
+    second: Kelp (fish)_1
+  - first:
+      213: 7858855823298958825
+    second: Kelp (fish)_2
+  - first:
+      213: 1326199043765782347
+    second: Kelp (fish)_3
+  - first:
+      213: -1964942612175319603
+    second: Kelp (fish)_4
+  - first:
+      213: -1376831324066174178
+    second: Kelp (fish)_5
+  - first:
+      213: 2657322200784618984
+    second: Kelp (fish)_6
+  - first:
+      213: -9113830973214075128
+    second: Kelp (fish)_7
+  - first:
+      213: 1330701482773869937
+    second: Kelp (fish)_8
+  - first:
+      213: -118321430331841682
+    second: Kelp (fish)_9
+  - first:
+      213: 379933151001383798
+    second: Kelp (fish)_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kelp (fish)_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 6224
+        width: 1697
+        height: 1367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b76a450e1ff1b20800000000000000
+      internalID: 3107468213704096533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kelp (fish)_1
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 6224
+        width: 1787
+        height: 1367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c62dc9149e80df0800000000000000
+      internalID: -213664514286916578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kelp (fish)_2
+      rect:
+        serializedVersion: 2
+        x: 4004
+        y: 6224
+        width: 1787
+        height: 1367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e59eb8bbb3401d60800000000000000
+      internalID: 7858855823298958825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kelp (fish)_3
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 4244
+        width: 1892
+        height: 1367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b474f19f00b976210800000000000000
+      internalID: 1326199043765782347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kelp (fish)_4
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 4244
+        width: 1892
+        height: 1367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd034dda1f1bb4e0800000000000000
+      internalID: -1964942612175319603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kelp (fish)_5
+      rect:
+        serializedVersion: 2
+        x: 4004
+        y: 4244
+        width: 1892
+        height: 1367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ba76d943384ece0800000000000000
+      internalID: -1376831324066174178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kelp (fish)_6
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 2264
+        width: 1892
+        height: 1367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e5c6876674b0e420800000000000000
+      internalID: 2657322200784618984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kelp (fish)_7
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 2264
+        width: 1892
+        height: 1367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8075f9a540b258180800000000000000
+      internalID: -9113830973214075128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kelp (fish)_8
+      rect:
+        serializedVersion: 2
+        x: 4004
+        y: 2264
+        width: 1802
+        height: 1367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17572deb2f9977210800000000000000
+      internalID: 1330701482773869937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kelp (fish)_9
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 284
+        width: 1697
+        height: 1367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6321c73943ab5ef0800000000000000
+      internalID: -118321430331841682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kelp (fish)_10
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 284
+        width: 1697
+        height: 1367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67315d7103bc54500800000000000000
+      internalID: 379933151001383798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Kelp (fish)_0: 3107468213704096533
+      Kelp (fish)_1: -213664514286916578
+      Kelp (fish)_10: 379933151001383798
+      Kelp (fish)_2: 7858855823298958825
+      Kelp (fish)_3: 1326199043765782347
+      Kelp (fish)_4: -1964942612175319603
+      Kelp (fish)_5: -1376831324066174178
+      Kelp (fish)_6: 2657322200784618984
+      Kelp (fish)_7: -9113830973214075128
+      Kelp (fish)_8: 1330701482773869937
+      Kelp (fish)_9: -118321430331841682
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
