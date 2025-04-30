@@ -1,13 +1,14 @@
 # H4H-2025
 
-## Video demo and Devpost page
+## 📹 Video demo and Devpost page of this project
 
-- [Demo](https://www.youtube.com/watch?v=6jcb2hMmoGg)
-- [Devpost](https://devpost.com/software/fishman-adventures)
+- 🎬 [Demo](https://www.youtube.com/watch?v=6jcb2hMmoGg)
+- 🚀 [Devpost Page](https://devpost.com/software/fishman-adventures)
 
 ## Overview
 
 This is a clone of the original [H4H-2025](https://github.com/StefanMerfy/H4H-2025) repository, created for the Hack for Humanity event. This project was developed in collaboration with friends as our contribution to the hackathon.
+This repository uses Git Large File Storage (LFS) to manage all files efficiently, which necessitated creating a new clone from the original repository.
 
 ## Project Description
 
